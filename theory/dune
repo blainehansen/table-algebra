@@ -1,0 +1,7 @@
+; https://dune.readthedocs.io/en/stable/dune-files.html#coq-theory-1
+; https://dune.readthedocs.io/en/stable/coq.html#coq-theory
+
+(coq.theory
+	(name theory)
+
+	(package table-algebra))
